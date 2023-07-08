@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning **Java...**
 
-- 📫 Reach out to me at <a href="https://mail.google.com/mail/?view=cm&fs=1&to=luv05102001@gmail.com&su= Hi, just saw your resume would like to connect&body=Here is the time i am free for a call( mention your timings :) )&bcc=lava85562@gmail.com">luv05102001@gmail.com</a>
+- 📫 Reach out to me at <a href="https://www.python.org" target="_blank" rel="noreferrer">https://tinyurl.com/lavakumargowda</a>
 <p>
   <h3>Languages:</h3>
   <a href="https://www.python.org" target="_blank" rel="noreferrer">
