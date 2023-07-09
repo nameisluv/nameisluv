@@ -88,7 +88,7 @@
 <!-- <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=nameisluv&show_icons=true&locale=en&layout=compact" alt="nameisluv" /></p> -->
 
 
-<h1>Chill and Code be at Peace</h1>
+<h1>Chill and Code, be at Peace</h1>
 
 ![Animated GIF](https://media.giphy.com/media/o89sDJMOxfnmSLrUuk/giphy.gif)
 
