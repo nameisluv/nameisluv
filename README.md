@@ -8,11 +8,13 @@
 
 <!-- <p> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nameisluv" alt="nameisluv" /></a></p> -->
 
-- 🌱 I’m currently learning **Java...**
+- 🌱 I’m currently learning **Java and DSA**
 
 - 📫 Reach out to me at : luv05102001@gmail.com ( <a href="https://www.python.org" target="_blank" rel="noreferrer">https://tinyurl.com/lavakumargowda</a> )
 
-- ⚡ Visit me here https://nameisluv.github.io/lavakumargowda/
+- ⚡ Visit me here : https://nameisluv.github.io/lavakumargowda/
+
+- 🧑🏽‍💻 Check out my gigs : https://www.fiverr.com/luvkumar05
 <p>
   <h3>Languages:</h3>
   <a href="https://www.python.org" target="_blank" rel="noreferrer">
