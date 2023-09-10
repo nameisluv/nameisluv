@@ -12,7 +12,7 @@
 
 - 📫 Reach out to me at : luv05102001@gmail.com ( <a href="https://www.python.org" target="_blank" rel="noreferrer">https://tinyurl.com/lavakumargowda</a> )
 
-- ⚡ Visit me here : https://nameisluv.github.io/lavakumargowda/
+- ⚡ Visit me here : https://nameisluv.com
 
 - 🧑🏽‍💻 Check out my gigs : https://www.fiverr.com/luvkumar05
 <p>
